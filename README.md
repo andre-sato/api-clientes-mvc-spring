@@ -32,5 +32,6 @@ O objetivo é disponibilizar dados de clientes para parceiros externos, permitin
 
 ## Diagrama C4
 O projeto inclui um diagrama C4, em nível container, ilustrando a interação entre usuário, API, serviços e banco de dados.
-<img width="332" height="802" alt="c4_api" src="https://github.com/user-attachments/assets/13c1dc1e-bd36-47e8-89d6-633d0cf56b66" />
 
+
+<img width="332" height="802" alt="c4_api" src="https://github.com/user-attachments/assets/13c1dc1e-bd36-47e8-89d6-633d0cf56b66" />
