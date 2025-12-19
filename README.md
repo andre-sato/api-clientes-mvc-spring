@@ -4,6 +4,8 @@
 A API REST foi desenvolvida em Java com Spring Boot, seguindo o padrão arquitetural MVC.
 O objetivo é disponibilizar dados de clientes para parceiros externos, permitindo operações CRUD completas.
 
+Este é o trabalho final do bootcamp Arquitetura de Software da XP Educação.
+
 ## Arquitetura
 - Model: Entidades de domínio
 - Controller: Endpoints REST
@@ -12,30 +14,7 @@ O objetivo é disponibilizar dados de clientes para parceiros externos, permitin
 
 ## Estrutura de pastas
 
-api-clientes-mvc-spring
-├── README.md
-├── diagramas
-│   └── c4-container.drawio
-├── src
-│   └── main
-│       ├── java
-│       │   └── com
-│       │       └── exemplo
-│       │           └── api
-│       │               ├── controller
-│       │               │   └── ClienteController.java
-│       │               ├── service
-│       │               │   └── ClienteService.java
-│       │               ├── repository
-│       │               │   └── ClienteRepository.java
-│       │               ├── model
-│       │               │   └── Cliente.java
-│       │               └── ApiApplication.java
-│       └── resources
-│           ├── application.yml
-│           └── data.sql
-└── pom.xml
-
+<img width="377" height="482" alt="image" src="https://github.com/user-attachments/assets/9fb8e429-749a-46df-873b-89bbe82f2fe6" />
 
 ## Tecnologias
 - Java 17
